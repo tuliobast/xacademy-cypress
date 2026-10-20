@@ -1,0 +1,69 @@
+[
+    {
+        "item1": "[data-test='add-to-cart-sauce-labs-backpack']",
+        "removeItem1": "[data-test='remove-sauce-labs-backpack']",
+
+        "item2": "[data-test='add-to-cart-sauce-labs-bike-light']",
+        "removeItem2": "[data-test='remove-sauce-labs-bike-light']"
+    },
+    
+    {
+        "item1": "[data-test='add-to-cart-sauce-labs-backpack']",
+        "removeItem1": "[data-test='remove-sauce-labs-backpack']",
+
+        "item2": "[data-test='add-to-cart-sauce-labs-bolt-t-shirt']",
+        "removeItem2": "[data-test='remove-sauce-labs-bolt-t-shirt']"
+    },
+    {
+        "item1": "[data-test='add-to-cart-sauce-labs-backpack']",
+        "removeItem1": "[data-test='remove-sauce-labs-backpack']",
+
+        "item2": "[data-test='add-to-cart-sauce-labs-fleece-jacket']",
+        "removeItem2": "[data-test='remove-sauce-labs-fleece-jacket']"
+    },
+    {
+        "item1": "[data-test='add-to-cart-sauce-labs-onesie']",
+        "removeItem1": "[data-test='remove-sauce-labs-onesie']",
+
+        "item2": "[data-test='add-to-cart-sauce-labs-bike-light']",
+        "removeItem2": "[data-test='remove-sauce-labs-bike-light']"
+    },
+    {
+        "item1": "[data-test='add-to-cart-sauce-labs-backpack']",
+        "removeItem1": "[data-test='remove-sauce-labs-backpack']",
+
+        "item2": "[data-test='add-to-cart-test.allthethings()-t-shirt-(red)']",
+        "removeItem2": "[data-test='remove-test.allthethings()-t-shirt-(red)']"
+    },
+        {
+        "item1": "[data-test='add-to-cart-test.allthethings()-t-shirt-(red)']",
+        "removeItem1": "[data-test='remove-test.allthethings()-t-shirt-(red)']",
+
+        "item2": "[data-test='add-to-cart-sauce-labs-bike-light']",
+        "removeItem2": "[data-test='remove-sauce-labs-bike-light']"
+    },
+    
+    {
+        "item1": "[data-test='add-to-cart-test.allthethings()-t-shirt-(red)']",
+        "removeItem1": "[data-test='remove-test.allthethings()-t-shirt-(red)']",
+
+        "item2": "[data-test='add-to-cart-sauce-labs-bolt-t-shirt']",
+        "removeItem2": "[data-test='remove-sauce-labs-bolt-t-shirt']"
+    },
+    {
+        "item1": "[data-test='add-to-cart-test.allthethings()-t-shirt-(red)']",
+        "removeItem1": "[data-test='remove-test.allthethings()-t-shirt-(red)']",
+
+        "item2": "[data-test='add-to-cart-sauce-labs-fleece-jacket']",
+        "removeItem2": "[data-test='remove-sauce-labs-fleece-jacket']"
+    },
+    {
+        "item1": "[data-test='add-to-cart-test.allthethings()-t-shirt-(red)']",
+        "removeItem1": "[data-test='remove-test.allthethings()-t-shirt-(red)']",
+
+        "item2": "[data-test='add-to-cart-sauce-labs-bike-light']",
+        "removeItem2": "[data-test='remove-sauce-labs-bike-light']"
+    }
+
+]
+    
